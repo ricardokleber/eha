@@ -40,6 +40,8 @@ markdown_extensions:
       title: Índice
 nav:
   - Início: index.md
+  - Cursos:
+    - Módulo de Acesso: cursos/modulodeacesso.md
   - Ambiente EaD: https://ead.eha.net.br
   - Contatos:
     - E-mails: contatos/emails.md
