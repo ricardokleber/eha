@@ -40,6 +40,7 @@ markdown_extensions:
       title: Índice
 nav:
   - Início: index.md
+  - Ambiente EaD: https://ead.eha.net.br
   - Contatos:
     - E-mails: contatos/emails.md
     - Endereço (Correspondência): contatos/endereco.md 
