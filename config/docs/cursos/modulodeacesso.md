@@ -29,11 +29,7 @@ Para a realização da avaliação o interessado terá **45 (quarenta e cinco) m
 
 O interessado saberá sua nota na avaliação imediatamente após a realização.
 
-**Se já está preparado, clique no botão a seguir** e preencha o formulário de cadastramento na plataforma e inscrição no módulo de acesso e aguarde a mensagem de confirmação (ou orientações complementares) atrvés do e-mail informado no formulário.
-
-<center>
-<a href="https://forms.gle/TbLkBBnc9Tt7AbaP7"><img src="../assets/images/botaoinscricao.png"></a>
-</center>
+**Se já está preparado, preencha o formulário logo mais abaixo** para o seu cadastramento na plataforma e inscrição no módulo de acesso e aguarde a mensagem de confirmação (ou orientações complementares) atrvés do e-mail informado no formulário.
 
 IMPORTANTE:
 
@@ -41,3 +37,8 @@ IMPORTANTE:
 2. Caso o interessado não acesse a plataforma e/ou não realize a avaliação do Módulo de Acesso até 30 dias após receber as credenciais, seu acesso à plataforma será bloqueado;
 3. Se o interessado não for aprovado no Módulo de Acesso (obtiver média inferior a 70%) poderá realizar nova tentativa 7 (sete) dias após a realização da avaliação.
 4. Tanto o procedimento de cadastramento no Ambiente EaD, como o envio do e-mail de confirmação com as credenciais e, ainda, após a aprovação no Módulo de Acesso, o envio das orientações para inscrição nos cursos é feito de forma manual. Aguarde o retorno da coordenação/secretaria. Em caso de dúvidas envie mensagem para: ehaifrn@gmail.com.
+
+???+ abstract "Formulário para Cadastramento no Módulo de Acesso"
+    <div class="video-wrapper">
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdDh-akznaEjdXRO7zic99LzCs6JlH986WtakLWAF3zRrJabg/viewform?embedded=true" width="1024" height="1024" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+    </div>
