@@ -2,6 +2,11 @@
 
 ![AVISO - IEH](./assets/images/aviso_ieh.png)
 
+??? abstract "Apresentação do Curso"
+    <div class="video-wrapper">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTBNjUqtbfZxP04kZPBfqsQP0irI7fz8_g8BqfX7CnOKhyfir2XWVfGm0WjRv5Vq8mhbn7dxW_gpgGf/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="1058" height="440" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </div>
+
 ???+ note "Informações Gerais sobre o Curso:"
 
     * **Curso:** 0010.CN - Introdução ao Ethical Hacking

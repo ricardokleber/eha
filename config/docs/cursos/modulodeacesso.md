@@ -43,6 +43,7 @@ hide:
     <div class="video-wrapper">
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdDh-akznaEjdXRO7zic99LzCs6JlH986WtakLWAF3zRrJabg/viewform?embedded=true" width="1024" height="1024" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
     </div>
+
 ??? abstract "Material para Estudo (Sugestão)"
     **Redes de Computadores:**<br>
 
