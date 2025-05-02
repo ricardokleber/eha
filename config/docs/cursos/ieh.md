@@ -1,13 +1,19 @@
+---
+hide:
+  - toc
+---
 ![Introdução ao Ethical Hacking](./assets/images/banner_ieh.png)
 
-???+ abstract "Formulário para Inscrições neste Curso"
+![Inscrições Abertas](./assets/images/aviso_ieh_ok.png)
+
+??? abstract "Formulário para Inscrições neste Curso"
     <div class="video-wrapper">
       <iframe src="https://forms.gle/ABmYQhrrAfhGchqs7" width="1024" height="1024" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
     </div>
 
 ??? abstract "Apresentação do Curso"
     <div class="video-wrapper">
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTBNjUqtbfZxP04kZPBfqsQP0irI7fz8_g8BqfX7CnOKhyfir2XWVfGm0WjRv5Vq8mhbn7dxW_gpgGf/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="1058" height="440" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTBNjUqtbfZxP04kZPBfqsQP0irI7fz8_g8BqfX7CnOKhyfir2XWVfGm0WjRv5Vq8mhbn7dxW_gpgGf/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="1300" height="440" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </div>
 
 ???+ note "Informações Gerais sobre o Curso:"
