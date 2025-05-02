@@ -11,7 +11,12 @@ hide:
       <iframe src="https://forms.gle/ABmYQhrrAfhGchqs7" width="1024" height="1024" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
     </div>
 
-??? abstract "Apresentação do Curso"
+???+ abstract "Apresentação do Curso (Vídeo Youtube)"
+    <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2h9sf6Yirws?si=bOFXEqggbns_376Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+??? abstract "Apresentação do Curso (Slides)"
     <div class="video-wrapper">
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTBNjUqtbfZxP04kZPBfqsQP0irI7fz8_g8BqfX7CnOKhyfir2XWVfGm0WjRv5Vq8mhbn7dxW_gpgGf/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="1300" height="440" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     </div>
