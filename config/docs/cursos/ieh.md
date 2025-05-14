@@ -4,9 +4,7 @@ hide:
 ---
 ![Introdução ao Ethical Hacking](./assets/images/banner_ieh.png)
 
-![Inscrições Abertas](./assets/images/aviso_ieh_ok.png)
-
-??? abstract "Formulário para Inscrições neste Curso"
+??? abstract "Formulário para Inscrições neste Curso (preencha para se inscrever na próxima turma)"
     <div class="video-wrapper">
       <iframe src="https://forms.gle/ABmYQhrrAfhGchqs7" width="1024" height="1024" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
     </div>
@@ -103,4 +101,6 @@ hide:
         3. Exploranção de vulnerabilidades com Metasploit
 
 - <a href="../assets/arquivos/Introdução_ao_Ethical_Hacking_na_modalidade_à_distância.pdf" target="_blank">PPC do Curso (Aprovado pelo Colegiado da DIAC/CN) [Donwload]</a>
+
+![Inscrições Abertas](./assets/images/aviso_ieh.png)
 
