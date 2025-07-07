@@ -25,7 +25,7 @@ hide:
     * **Modalidade:** À Distância (EaD)
     * **Ato Normativo:** Portaria 85/2018 - DG/CN/RE/IFRN
     * **Carga-Horária:** 60h (80 aulas)
-    * **Turma em Andamento:** Aguardando início (previsão: maio/2025)
+    * **Turma em Andamento:** Inscrições abertas (Turma 04)
     * **Professor:** Ricardo Kléber
 
 ??? note "Informações Específicas:"
